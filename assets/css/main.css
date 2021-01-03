@@ -2,17 +2,17 @@ body{
     background-color: blue;
 }
 .TypesofEducation{
- background-color: crimson;   
+ background-color: red;
 }
 .Whyyoushouldgotoschool{
-    background-color: chartreuse;
-}
-.Research{
     background-color: darkorange;
 }
+.Research{
+    background-color: gold;
+}
 .Schoolfacts{
-    background-color: yellow;
+    background-color: chartreuse;
 }
 .levelofeducationinmyschool{
-    background-color: gold;
+    background-color: darkblue;
 }
